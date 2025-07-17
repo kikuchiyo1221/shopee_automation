@@ -38,3 +38,4 @@ if __name__ == "__main__":
     # テーブルを作成して接続テスト
     init_db()
     print("✅ SQLite 初期化完了 →", DB_URL)
+
